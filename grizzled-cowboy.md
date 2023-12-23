@@ -45,16 +45,23 @@ Machine specific parameters: txt2img, euler a 30x steps, 4x1 batches, cfg scale 
 
 ## Midjourney 4
 
-| Characteristic | Value |
-|---------|-------|
-| Model | Midjourney v4 |
+- MJ4, 1:1 AR, no upscale
 
 ![Screenshot 2023-04-09 124049](https://user-images.githubusercontent.com/1148452/230785222-93ea277a-4074-4260-b0d0-0f8c6b4cfea9.png)
 
-## Midjourney 5
+## Midjourney 5.2
 
-| Characteristic | Value |
-|---------|-------|
-| Model | Midjourney v5 |
+- 2023-12-22, MJ5.2, 16:10 AR, raw style, upscale 2x
 
-![mhoc_a_photograph_of_a_grizzled_cowboy_riding_a_horse_in_the_am_0faf6b91-9fed-4e10-8c65-d6ff4e5cda31](https://user-images.githubusercontent.com/1148452/230785017-1198d590-742a-44b8-934a-98077335e422.png)
+> a photograph of a grizzled cowboy riding a horse in the american west, sunset, canyon, lonely yet hopeful, hyperrealistic photograph, shot on film, 4k, hdr, trending on instagram, artstation --v 5.2 --ar 16:10 --style raw
+
+![mhoc_a_photograph_of_a_grizzled_cowboy_riding_a_horse_in_the_am_4d2dc756-d82d-4a4d-84df-ab95ec2bb3b8](https://github.com/mhoc/imagegen-benchmarking/assets/1148452/ebbcfea6-512c-4119-89aa-38c1298800a0)
+
+## Midjourney 6
+
+- 2023-12-22, MJ6, 16:10 AR, raw style, creative upscale
+
+> a photograph of a grizzled cowboy riding a horse in the american west, sunset, canyon, lonely yet hopeful, hyperrealistic photograph, shot on film, 4k, hdr, trending on instagram, artstation --v 6 --ar 16:10 --style raw
+
+![mhoc_a_photograph_of_a_grizzled_cowboy_riding_a_horse_in_the_am_fb833fbb-7953-48d9-92bc-1959325fd368](https://github.com/mhoc/imagegen-benchmarking/assets/1148452/419291e6-2d98-453f-a0a1-76d3b84cb576)
+
