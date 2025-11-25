@@ -125,3 +125,6 @@ _Note: M2 is capable of much faster single image gen; around 22s for 1 image. Ho
 
 ![mhoc_create_a_photograph_of_a_beautiful_young_woman_sitting_nex_5ce27487-b4c1-4b58-9c46-da7c69daf794](https://github.com/mhoc/imagegen-benchmarking/assets/1148452/3d315ca3-e330-4cdb-992d-09f506c13a4b)
 
+## Gemini Thinking, Nano Banana (2025-11-24)
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_uxe1jzuxe1jzuxe1" src="https://github.com/user-attachments/assets/3a714854-3c96-4659-b51b-66bf229d1eb2" />
